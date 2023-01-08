@@ -1,0 +1,308 @@
+MMM    3M
+ABBN   ABB
+ACN    Accenture
+ACLN   Accelleron
+AC     Accor
+ATVI   Activision Blizzard
+ADEN   Adecco
+ADS    Adidas
+ADBE   Adobe
+AF FP  Air France-KLM
+Al     Air Liquide
+ABNB   Airbnb
+AIR    Airbus
+ALC    Alcon
+ALV    Allianz
+GOOG   Alphabet (Google)
+ALO    Alstom
+AMZN   Amazon
+AMD    AMD
+AAL    American Airlines
+AXP    American Express
+AMGN   Amgen
+AMS    Ams-osram
+BUD    Anheuser-Busch
+AAPL   Apple
+AMAT   Applied Materials
+ASML   ASML
+AML    Aston Martin
+AZN    AstraZeneca
+T      AT&T
+CS     AXA
+BALN   Baloise
+BAC    Bank Of America
+BCGE  Banque Cantonale de Geneve 
+BCVN  Banque Cantonale Vaudoise 
+BAS   BASF
+BSKP  Basler Kantonalbank
+BAYN  Bayer 
+BELL  Bell
+BRK/B Berkshire Hathaway
+BEKN  Berner Kantonalbank
+BYND  Beyond Meat
+BHP   BHP
+BNTX  Biontech
+BKW   BKW Energie
+BLK   Blackrock
+SQ    Block 
+BMW   BMW 
+BNP   BNP Paribas
+BOBNN Bobst 
+BA    Boeing
+BKNG  Booking
+BVB   Borussia Dortmund
+BATS  British American Tobacco 
+BP.   British Petroleum
+BMBL  Bumble
+BRBY  Burberry
+CALN  Calida 
+CCL   Carnival
+CAT   Caterpillar
+CVX   Chevron
+CDI   Christian Dior
+CSCO  Cisco 
+C     Citigroup
+CLN   Clariant
+KO    Coca-Cola
+COIN  Coinbase
+CMCSA Comcast
+CBK   Commerzbank
+COST  Costco
+ACA   Credit Agricole
+CSGN  Grigg. Sui
+5CV GRCurevac
+DAI      Daimler (Mercedes-Benz) 
+BN       Danone
+DELL     Dell
+DAL      Delta Air Lines
+DBK      Deutsche Bank 
+DPW      Deutsche Post
+DTE      Deutsche Telekom
+DUFN     Dufry 
+EOAN     E.ON 
+EZJ      Ea syjet
+EBAY     Ebay 
+EDF      EDF 
+EA       Electronic Arts
+LLY      Eli Lilly
+EMMN     Emmi 
+EMSN     EMS-Chemie
+ENEL     Enel 
+ENGI     Engie
+ENI      Eni
+EL       Estee Lauder
+ETSY     Etsy 
+EXPE     Expedia
+XOM      Exxon Mobil
+FDX      Fedex
+RACE     Ferrari
+FI-N     Fischer
+FHZN     Flughafen Zurich
+FL       Foot Locker
+F        Ford 
+GPS      GAP 
+GEBN     Geberit
+GE       General Electric
+GIS      General Mills
+GM       General Motors 
+GIVN     Givaudan 
+GSK      GlaxoSmithKline 
+GLEN     Glencore
+GS       Goldman Sachs
+GT 
+GPRO     Gopro
+HOG            Harley Davidson
+HAS            Hasbro
+HEIO           Heineken 
+HFG            Hello Fresh 
+HELN           Helvetia
+RMS            Hermes
+HOLN           Holcim
+HD             Home Depot 
+HMC            Honda
+HON            Honeywell 
+HSBA           HSBC
+BOSS           Hugo Boss 
+IBM            IBM
+IDIA           Idorsia
+IMPN           Implenia
+INGA           ING
+INTC           Intel
+INTU           Intuit
+DE             John Deere 
+JNJ            Johnson & Johnson
+JPM            JP Morgan Chase
+BAER           Julius Baer
+JUVE           Juventus Football club
+K              Kellogg's
+KER            Kering
+KMB            Kimberly-Clark
+KHC            Kraft Heinz 
+KUD            Kudelski
+KNIN           KOhne+Nagel
+OR             L'Oreal
+LIN            Linde
+LISN           Lindt
+LLOY           Lloyds Banking
+LMT            Lockheed Martin
+LOGN           L
+LONN           LonzaI 
+LCID  Lucid motors
+LHA   Lufthansa
+LULU  Lululemon
+LUKN  Luzerner Kantonalbank
+MC    LVMH
+MSGE  Madison Square Garden Sports 
+MANU  Manchester United
+MKS   Marks & Spencer
+MAR   Marriott
+MA    Mastercard
+MTCH  Match Group (Tinder) 
+MCD   McDonald's
+MRK   Merck
+FB    Meta (Facebook)
+MU    Micron Technology
+MSFT  Microsoft
+MRNA  Moderna
+MONC  Moncler
+MDLZ  Mondelez
+MS    Morgan Stanley
+MUV2  Munich Re
+NESN  Nestle 
+NFLX  Netflix 
+NKE   Nike
+NKLA  Nikola
+NCLH  Norwegian Cruise Line 
+NOVN  Novartis
+NVAX  Novavax
+NVDA  Nvidia 
+ORCL  Oracle 
+ORA   Orange 
+PG    P&G
+PLTR  Palantir 
+PGHN  Partners Group
+PEP  Pepsico
+PFE  Pfizer
+PM   Philip Morris 
+PHIA Philips
+PINS Pinterest 
+PLUG Plug Power 
+P911 Porsche
+PUM  Puma
+QCOM Qualcomm 
+0    Realty Income
+RNO  Renault
+CFR  Richemont 
+RIO  Rio Tinto 
+RIVN Rivian
+RBLX Roblox
+ROG  Roche
+ROKU Roku
+RR/  Rolls-Royce 
+RWE  RWE
+CRM  Salesforce 
+SMSN Samsung 
+SANO Sanofi
+SANT Santander 
+SAP  SAP
+SCHN Schindler 
+SGSN SGS
+RDSA Shell
+SHOP Shopify
+SIE  Siemens
+SIKA Sika
+SNAP Snapchat 
+SNOW Snowflake 
+GLE  Societe Generale
+SOON Sonova
+SNE US 
+SGKN   St. Galler Kantonalbank
+SRAIL  Stadler Rail 
+SBUX   Starbucks 
+STLA   Stellantis 
+STMN   Straumann 
+SUN    Sulzer
+UHR    Swatch Group
+SLHN   Swiss Life 
+SREN   Swiss Re 
+SCMN   Swisscom 
+SQN    Swissquote 
+TTWO   Take Two 
+TGT    Target
+TTM    TATA Motors
+TMV    TeamViewer
+TEMN   Temenos 
+TSCO   Tesco
+TSLA   Tesla
+TKA    Thyssenkrupp
+TTE    Totalenergies
+TM     Toyota
+TUI1   Tui
+UBER   Uber
+UBI    Ubisoft
+UBSG   UBS
+UAA    Under Armour
+ULVR   Unilever 
+UPS    UPS
+VALE   Vale
+VATN   Valiant
+VALN   Valora
+VACN   VAT Group 
+VIE    Veolia
+VZ     Verizon
+SPCE   Virgin Galactic
+VIV  Vivendi
+VOD  Vodafone
+VOW  Volkswagen
+VONN Vontobel
+WMT  Walmart
+DIS  Walt Disney
+WBD  Warner Bros Discovery
+WISE Wise
+WISH Wish
+WWE  World Wrestling Entertainment
+WW   WW (Weight Watchers)
+YUM  Yum! Brands
+ZAL  Zalando
+ITX  Zara
+ZM   Zoom
+ROSE Zur Rose
+ZURN Zurich Insurance
+ZNGA Zynga
+XMKA   African Blue Chips
+CSEMAS Asian Emerging Markets
+SAUS   Australian Blue Chips
+XMBR   Brazilian Blue Chips
+CANCDA Canadian Blue Chips
+XCHA   Chinese Blue Chips
+MSE    European Blue Chips
+SPYW   European High Dividend Stocks
+CAC    French Blue Chips
+XDAX   German Blue Chips
+IWDC   Global Blue Chips (CHF)
+VWRD   Global Blue Chips (USD)
+VHYL   Global High Dividend Stocks
+INFR   Global infrastructure
+MVSH   Global Minimum volatility Stocks
+IWMO   Global Momentum Stocks
+ZGLD   Gold
+CSMIB  Italian Blue Chips
+XNJP   Japanese Blue Chips
+AMEL   Latin American Blue Chips
+EQQQ   Nasdaq-100 Index
+XDNO   Nordics Blue Chips
+CSPXJ  Pacific Blue Chips
+ZSIL   Silver
+XESP   Spanish Blue Chips
+CSSMI  Swiss Blue Chips
+CHDVD  Swiss High Dividend Stocks
+CHSPI  Swiss Performance Index
+SRECHA Swiss Real Estate
+VUSD   U.S. Blue Chips
+XDGU   U.S. Corporate Bonds
+XLFS   U.S. Financial
+SXLV   U.S. Healthcare
+UDVD   U.S. High Dividend Stocks
+XLBS   U.S. Materials
+SXLK   U.S. Tech
+VUKE   UK Blue Chips
